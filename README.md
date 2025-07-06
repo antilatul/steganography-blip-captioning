@@ -1,17 +1,20 @@
-# StegoVision 🔍🧠
+[![View on Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://steganography-blip-captioning-d5xsdqcnfafxm2meyubepr.streamlit.app/)
 
-A Python project that hides invisible messages in images using **LSB steganography**, and explores how **AI models like BLIP** interpret those images.
+# 🕵️‍♂️ Steganography + BLIP AI Captioning 🧠
 
----
-
-## 💡 Features
-
-- 🔐 Hide a secret text message in an image (invisible to humans)
-- 🧠 Use BLIP (Vision-Language Model) to generate captions
-- 🔍 Decode the hidden message from the image later
-- 💥 Simple Python + HuggingFace Transformers + PIL
+🚀 **Live Demo**:  
+👉 [Click here to try the app](https://steganography-blip-captioning-d5xsdqcnfafxm2meyubepr.streamlit.app/)
 
 ---
 
-## 📁 Folder Structure
+## 📌 What This Project Does
+
+This project allows you to:
+- 🔐 **Hide secret text** inside an image using steganography
+- 🔓 **Decode hidden messages** from an image
+- 🧠 **Generate AI-powered image captions** using BLIP (a vision-language model from Hugging Face)
+
+---
+
+## 📂 Project Structure
 
